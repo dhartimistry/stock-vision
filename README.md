@@ -2,8 +2,11 @@
 This repository contains the implementation of a time series forecasting model for stock price prediction using the ARIMA algorithm. The model leverages historical stock price data and exogenous features to make accurate predictions. 
 
 # Usage
+- git clone https://github.com/dhartimistry/stock-vision.git
+- cd stock-vision
 - Run Jupyter Notebook.
 - Open the StockVision.ipynb file.
+- Use data from the dataset folder.
 - Train the Model: Run the training cells in the Jupyter notebook to build the ARIMA model.
 - Make Predictions: Use the trained model to predict stock prices. Modify the test_data to input different datasets.
 - Evaluate Performance: Performance metrics are displayed in the notebook after predictions.
